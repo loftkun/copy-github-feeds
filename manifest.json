@@ -1,0 +1,16 @@
+{
+    "name": "copy GitHub feeds",
+    "author": "loftkun",
+    "version": "0.1",
+    "manifest_version": 2,
+    "description": "Githubのfeedのリンクをクリップボードに格納します",
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": true
+    },
+    "permissions": [
+        "contextMenus"
+    ]
+}
