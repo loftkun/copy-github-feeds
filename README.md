@@ -2,7 +2,7 @@
 
 ## What's this?
 
-This is a browser extension for Edge and Chrome that allows you to copy Github feed links ( relase, issues ) from the right-click menu to the clipboard.
+This is a browser extension for Edge and Chrome that allows you to copy Github feed links ( release, issues ) from the right-click menu to the clipboard.
 
 ![](./screenshot-01.png)
 
